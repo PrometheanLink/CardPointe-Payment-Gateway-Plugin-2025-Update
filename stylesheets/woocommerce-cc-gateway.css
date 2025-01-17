@@ -1,0 +1,32 @@
+.card-connect-allowed-cards {
+  list-style-type: none;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.05);
+  clear: both;
+  padding: 10px 11px 10px 5px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.12) inset;
+  display: inline-block;
+}
+
+.card-connect-allowed-card__li {
+  display: inline;
+}
+
+.card-connect-allowed-card__li::before,
+.card-connect-allowed-card__li::after {
+  display: none !important;
+}
+
+.card-connect-allowed-cards__img {
+  max-width: 60px !important;
+  width: 100%;
+  display: inline-block !important;
+}
+
+.woocommerce-error:empty {
+  display: none;
+}
+p.saved_card_message {
+  color: red;
+}
