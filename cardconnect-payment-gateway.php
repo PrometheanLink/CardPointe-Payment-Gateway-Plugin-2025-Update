@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/cardconnect-payment-module
  * Description: Secure credit card payments for WooCommerce.
  * Version: 4.0.0
- * Author: Fiserv <nicole.anderson@fiserv.com>
+ * Author: Fiserv <nicole.anderson@fiserv.com> | 2025 PrometheanLink LLC Update - <service@prometheanlink.com>
  * Author URI: https://cardconnect.com
  * License: GNU General Public License v2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
